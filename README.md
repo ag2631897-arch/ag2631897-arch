@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=180&section=header&text=ag2631897-arch&fontSize=48&fontColor=00FF41&fontAlignY=45&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Student%20of%20the%20Cosmos&descSize=15&descColor=39FF14&descAlignY=68"/>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=200&section=header&text=Aryan%20Gautam&fontSize=52&fontColor=00FF41&fontAlignY=45&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Student%20of%20the%20Cosmos&descSize=16&descColor=39FF14&descAlignY=68"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=580&lines=%3E+Initializing+system...;%3E+Full+Stack+Developer+%5BONLINE%5D;%3E+ML+Engineer+%5BACTIVE%5D;%3E+Infinite+Student+%5BLOCKED+IN%5D;%3E+root%40cosmos%3A~%24+_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+system...;%3E+Full+Stack+Developer+%5BONLINE%5D;%3E+ML+Engineer+%5BACTIVE%5D;%3E+Infinite+Student+%5BLOCKED+IN%5D;%3E+root%40cosmos%3A~%24+_)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,8 @@
 ```python
 class Developer:
     def __init__(self):
-        self.username     = "Aryan Gautam"
+        self.name         = "Aryan Gautam"
+        self.username     = "ag2631897-arch"
         self.role         = ["Full Stack Developer", "ML Engineer", "Eternal Student"]
         self.languages    = ["Python", "JavaScript", "TypeScript", "Java", "SQL"]
         self.currently    = "Building things that don't exist yet"
@@ -63,38 +64,6 @@ me.say_hi()
 
 ---
 
-<div align="center">
-
-## 📡 `[ SYSTEM METRICS ]`
-
-<br/>
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ag2631897-arch&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=39FF14&text_color=00CC33&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ag2631897-arch&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00CC33" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ag2631897-arch&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=39FF14&fire=00FF41&currStreakNum=00FF41&sideNums=00CC33&currStreakLabel=39FF14&sideLabels=00CC33&dates=006600" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌌 `[ COMMIT ACTIVITY MATRIX ]`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ag2631897-arch&bg_color=000000&color=00FF41&line=39FF14&point=00FF41&area=true&area_color=003300&hide_border=true&custom_title=Commit+Activity+Matrix" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
 ## 🚀 `[ CURRENT MISSION ]`
 
 ```bash
@@ -115,9 +84,31 @@ $ cat /var/log/current_mission.log
 
 <div align="center">
 
-## 🏆 `[ ACHIEVEMENTS UNLOCKED ]`
+## 📡 `[ SYSTEM METRICS ]`
 
-<img src="https://github-profile-trophy.vercel.app/?username=ag2631897-arch&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+> *Stats will populate automatically as you push code and make commits.*
+
+<br/>
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ag2631897-arch&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=39FF14&text_color=00CC33&count_private=true&include_all_commits=true&hide=contribs" />
+&nbsp;
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ag2631897-arch&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00CC33" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ag2631897-arch&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=39FF14&fire=00FF41&currStreakNum=00FF41&sideNums=00CC33&currStreakLabel=39FF14&sideLabels=00CC33&dates=006600" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🌌 `[ COMMIT ACTIVITY MATRIX ]`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ag2631897-arch&bg_color=000000&color=00FF41&line=39FF14&point=00FF41&area=true&area_color=003300&hide_border=true&custom_title=Commit+Activity+Matrix" width="95%"/>
 
 </div>
 
