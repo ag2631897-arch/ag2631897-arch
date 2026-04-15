@@ -19,7 +19,7 @@
 
 ## ⚡ `[ ABOUT THE OPERATOR ]`
 
-```python
+python
 class Developer:
     def __init__(self):
         self.name         = "Aryan Gautam"
@@ -36,7 +36,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```
+
 
 <br/>
 
@@ -66,7 +66,7 @@ me.say_hi()
 
 ## 🚀 `[ CURRENT MISSION ]`
 
-```bash
+bash
 $ cat /var/log/current_mission.log
 
 [ACTIVE]  → Mastering Full Stack architecture at scale
@@ -76,7 +76,7 @@ $ cat /var/log/current_mission.log
 [QUEUED]  → Deploying my first SaaS product
 [DREAM]   → Creating tech that outlives me
 [STATUS]  → "Still learning. Always will be."
-```
+
 
 <br/>
 
