@@ -22,7 +22,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.username     = "ag2631897-arch"
+        self.username     = "Aryan Gautam"
         self.role         = ["Full Stack Developer", "ML Engineer", "Eternal Student"]
         self.languages    = ["Python", "JavaScript", "TypeScript", "Java", "SQL"]
         self.currently    = "Building things that don't exist yet"
