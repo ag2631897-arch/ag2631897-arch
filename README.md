@@ -1,5 +1,4 @@
-# ag2631897-arch-
-<div align="center">
+ <div align="center">
 
 <!-- MATRIX RAIN HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003300,100:001a00&height=200&section=header&text=ag2631897-arch&fontSize=52&fontColor=00ff41&fontAlignY=55&animation=fadeIn&stroke=00ff41&strokeWidth=2&desc=Full%20Stack%20%7C%20ML%20Engineer%20%7C%20Student%20of%20the%20Cosmos&descAlignY=75&descSize=16&descColor=39ff14" width="100%"/>
@@ -28,7 +27,6 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name         = "Aryan Gautam"
         self.username     = "ag2631897-arch"
         self.role         = ["Full Stack Developer", "ML Engineer", "Eternal Student"]
         self.languages    = ["Python", "JavaScript", "TypeScript", "Java", "SQL"]
